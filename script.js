@@ -172,7 +172,7 @@ function copiarAlPortapapeles() {
 
 var rodapie =
   "Jorge Nanni     -     " +
-  "Github: https://github.com/JorgeNanni     -     " +
+  "Github: https://github.com/JorgeNanni/Codificador-Decodificador-2022     -     " +
   "LinkedIn: www.linkedin.com/in/jorge-nanni                                ";
 
 function scroll() {
